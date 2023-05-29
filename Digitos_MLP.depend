@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1681955669 source:e:\projetocpp\rede neural\digitos_mlp\botaosfml.cpp
+	"botaoSFML.h"
+
+1681955678 e:\projetocpp\rede neural\digitos_mlp\botaosfml.h
+
+1681955669 source:e:\projetocpp\rede neural\digitos_mlp\desenho.cpp
+	"desenho.h"
+
+1681955669 e:\projetocpp\rede neural\digitos_mlp\desenho.h
+	<SFML/Graphics.hpp>
+
+1681959922 source:e:\projetocpp\rede neural\digitos_mlp\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	"rn.h"
+	"pesosRN.h"
+
+1681954773 e:\projetocpp\rede neural\digitos_mlp\rn.h
+	<vector>
+
+1681954676 e:\projetocpp\rede neural\digitos_mlp\pesosrn.h
+
+1681954809 source:e:\projetocpp\rede neural\digitos_mlp\rn.cpp
+	<cmath>
+	"rn.h"
+

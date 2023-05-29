@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681016680 source:d:\projetocpp\arduino\meujogocomchatgpt\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1681061261 source:d:\projetocpp\desenhocomchatgpt\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1681061261 source:d:\projetocpp\desenhocomchatgpt\rn.cpp
+	<iostream>
+

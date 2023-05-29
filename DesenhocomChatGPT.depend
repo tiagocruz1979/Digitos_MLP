@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1681956442 source:d:\projetocpp\desenhocomchatgpt\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	"rn.h"
+	"pesosRN.h"
+
+1681954809 source:d:\projetocpp\desenhocomchatgpt\rn.cpp
+	<cmath>
+	"rn.h"
+
+1681954773 d:\projetocpp\desenhocomchatgpt\rn.h
+	<vector>
+
+1681954676 d:\projetocpp\desenhocomchatgpt\pesosrn.h
+
+1681955669 source:d:\projetocpp\desenhocomchatgpt\botaosfml.cpp
+	"botaoSFML.h"
+
+1681955678 d:\projetocpp\desenhocomchatgpt\botaosfml.h
+
+1681955669 source:d:\projetocpp\desenhocomchatgpt\desenho.cpp
+	"desenho.h"
+
+1681955669 d:\projetocpp\desenhocomchatgpt\desenho.h
+	<SFML/Graphics.hpp>
+
+1681955669 source:e:\projetocpp\rede neural\desenhocomchatgpt\botaosfml.cpp
+	"botaoSFML.h"
+
+1681955678 e:\projetocpp\rede neural\desenhocomchatgpt\botaosfml.h
+
+1681955669 source:e:\projetocpp\rede neural\desenhocomchatgpt\desenho.cpp
+	"desenho.h"
+
+1681955669 e:\projetocpp\rede neural\desenhocomchatgpt\desenho.h
+	<SFML/Graphics.hpp>
+
+1681959922 source:e:\projetocpp\rede neural\desenhocomchatgpt\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	"rn.h"
+	"pesosRN.h"
+
+1681954773 e:\projetocpp\rede neural\desenhocomchatgpt\rn.h
+	<vector>
+
+1681954676 e:\projetocpp\rede neural\desenhocomchatgpt\pesosrn.h
+
+1681954809 source:e:\projetocpp\rede neural\desenhocomchatgpt\rn.cpp
+	<cmath>
+	"rn.h"
+

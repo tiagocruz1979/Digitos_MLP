@@ -1,0 +1,7 @@
+#ifndef BOTAOSFML_H_INCLUDED
+#define BOTAOSFML_H_INCLUDED
+
+
+
+
+#endif // BOTAOSFML_H_INCLUDED
